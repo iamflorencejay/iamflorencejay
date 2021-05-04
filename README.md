@@ -27,6 +27,42 @@
   </tbody>
 </table>
 
+<h1 align="center">
+✨ Where you can find me ✨
+  
+  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
+
+  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
+
+  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
+
+  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
+
+  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
+
+<p align="center">
+  <a href="https://www.facebook.com/iamflorencejay">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
+  </a>
+ 
+  <a href="https://www.instagram.com/iamflorencejay/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://twitter.com/iamflorencejay">
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+  </a>
+</p>
+</h1>
+
+<div align = "center">
+
+![Florence's Github Status](https://github-readme-stats.vercel.app/api?username=iamflorencejay&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+
+<hr>
+
+</div>
+
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iamflorencejay.iamflorencejay)
