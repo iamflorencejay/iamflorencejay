@@ -28,18 +28,7 @@
 </table>
 
 <h1 align="center">
-Where you can find me though?
-  
-  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
-
-  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
-
-  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
-
-  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
-
-  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
-
+   Where you can find me though?
 <p align="center">
   <a href="https://www.facebook.com/iamflorencejay">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
@@ -56,8 +45,11 @@ Where you can find me though?
 </h1>
 
 <div align = "center">
+
 ![Florence's Github Status](https://github-readme-stats.vercel.app/api?username=iamflorencejay&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+
 <hr>
+
 </div>
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
