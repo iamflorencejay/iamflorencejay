@@ -1,6 +1,4 @@
-# Hello!
-
-
+# Hello! I am Florence Jay Munar!
 
 :computer: Content Creator, Streamer, Writer and a part-time developer (kung sumipag) xD
 
