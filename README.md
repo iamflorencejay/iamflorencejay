@@ -28,7 +28,7 @@
 </table>
 
 <h1 align="center">
-✨ Where you can find me ✨
+Where you can find me though?
   
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
@@ -56,11 +56,8 @@
 </h1>
 
 <div align = "center">
-
 ![Florence's Github Status](https://github-readme-stats.vercel.app/api?username=iamflorencejay&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-
 <hr>
-
 </div>
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
