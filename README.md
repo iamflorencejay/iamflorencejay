@@ -54,9 +54,7 @@
 
 </div>
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=iamflorencejay.iamflorencejay)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2369006B&title_bg=%23171717&icon=actigraph.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 ⭐️ From [xiaoluoboding](https://github.com/xiaoluoboding)
