@@ -2,7 +2,7 @@
 
 :computer: Content Creator, Streamer, Writer and a part-time developer (kung sumipag) xD
 
-<hr>
+---
 
 ## My Tech Stack
 
