@@ -50,11 +50,8 @@
 
 ![Florence's Github Status](https://github-readme-stats.vercel.app/api?username=iamflorencejay&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
-<hr>
-
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2369006B&title_bg=%23171717&icon=actigraph.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ---
-⭐️ From [xiaoluoboding](https://github.com/xiaoluoboding)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2369006B&title_bg=%23171717&icon=actigraph.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://florencejaymunar.com)
