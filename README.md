@@ -33,16 +33,21 @@
    Where you can find me though?
 <p align="center">
   <a href="https://www.facebook.com/iamflorencejay">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
- 
-  <a href="https://www.instagram.com/iamflorencejay/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+     <img src="https://img.shields.io/badge/Facebook-1877f2?logo=Facebook&logoColor=white">
   </a>
 
   <a href="https://twitter.com/iamflorencejay">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitter-1da1f2?logo=Twitter&logoColor=white">
   </a>
+  
+  <a href="https://www.instagram.com/iamflorencejay/">
+    <img src="https://img.shields.io/badge/Instagram-e4405f?logo=Instagram&logoColor=white">
+  </a>
+  
+  <a href="https://linkedin.com/in/iamflorencejay">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=LinkedIn&logoColor=white">
+  </a>
+  
 </p>
 </h1>
 
