@@ -48,6 +48,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=LinkedIn&logoColor=white">
   </a>
   
+  <a href="https://linkedin.com/in/iamflorencejay">
+    <img src="https://img.shields.io/badge/Odysee-ef1970?logo=Odysee&logoColor=white">
+  </a>
+  
 </p>
 </h1>
 
