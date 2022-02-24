@@ -8,6 +8,8 @@
     https://player.vimeo.com/video/{{ video_id }}?dnt=true
   {% when "youtube" %}
     https://www.youtube-nocookie.com/embed/{{ video_id }}
+  {% when "odysee" %}
+    https://odysee.com/$/embed/{{ video_id }}
   {% when "google-drive" %}
     https://drive.google.com/file/d/{{ video_id }}/preview
   {% when "bilibili" %}
