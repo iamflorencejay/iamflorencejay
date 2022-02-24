@@ -27,7 +27,7 @@ feature_row:
     url: "/videos/"
     btn_label: "View"
     btn_class: "btn--primary"
-  - image_path: /assets/images/tfgp.png
+  - image_path: /assets/img/articles/thumbnail.jpg
     alt: "articles"
     title: "Articles"
     excerpt: "My posts, and exclusive posts, right here on my website!"
@@ -49,9 +49,12 @@ feature_row2:
     url: "https://resume.florencejaymunar.com"
     btn_label: "View"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/img/mockups/thumbnail.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "https://resume.florencejaymunar.com"
+    btn_label: "View"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
