@@ -49,14 +49,8 @@ feature_row2:
     url: "https://resume.florencejaymunar.com"
     btn_label: "View"
     btn_class: "btn--primary"
-  - image_path: /assets/img/mockups/thumbnail.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://resume.florencejaymunar.com"
-    btn_label: "View"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row2" type="center" %}
