@@ -9,7 +9,7 @@ header:
   cta_url: "/about"
   caption:
 excerpt: 'I am Florence Jay Munar, I am a developer, singer, content creator, parodist, crypto related stuff that I've been working on, and so on. <br />'
-feature_row:
+feature_row_one:
   - image_path: /assets/img/mockups/thumbnail.jpg
     alt: "Mockup"
     title: "My Mockups and Portfolios"
@@ -32,7 +32,7 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--primary"
 
-feature_row_2:
+feature_row_two:
   - image_path: /assets/img/mockups/thumbnail.jpg
     alt: "archives"
     title: "Photo Archives"
@@ -50,6 +50,6 @@ feature_row_2:
 
 ---
 
-{% include feature_row %}
+{% include feature_row id="feature_row_one" %}
 
-{% include feature_row id="feature_row_2" %}
+{% include feature_row id="feature_row_two" %}
