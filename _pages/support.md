@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Support Florence
-permalink: /support
+permalink: /support-us/
 ---
 
 ## Support Us

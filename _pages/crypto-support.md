@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Support Florence
-permalink: /support/crypto
+permalink: /support-us/crypto/
 ---
 
 ## Support Us by mining MINTME
