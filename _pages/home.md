@@ -35,7 +35,7 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/img/mockups/thumbnail.jpg
+  - image_path: /assets/img/photo-archives/thumbnails/main.jpg
     alt: "archives"
     title: "Photo Archives"
     excerpt: "All of my gallery archives are available here."
