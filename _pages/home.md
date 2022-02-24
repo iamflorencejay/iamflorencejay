@@ -11,7 +11,7 @@ header:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "I am Florence Jay Munar. Content Creator, Writer, Parodist, anything that I have a skill for can push it out of the box. :D"
 feature_row:
   - image_path: /assets/img/mockups/thumbnail.jpg
     alt: "Mockup"
