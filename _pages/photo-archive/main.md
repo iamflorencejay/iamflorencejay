@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
 excerpt: "My memories of the past. Before until now. :D"
 feature_row:
-  - image_path: /assets/img/mockups/thumbnail.jpg
+  - image_path: /assets/img/photo-archives/thumbnails/esgs2018.jpg
     alt: "ESGS 2018"
     title: "ESGS 2018"
     excerpt: "The most hyped event of all time. And I'm into it."
@@ -23,7 +23,7 @@ feature_row:
     url: "/archives/esgs-2019"
     btn_label: "View Gallery"
     btn_class: "btn--primary"
-  - image_path: /assets/img/articles/thumbnail.jpg
+  - image_path: /assets/img/photo-archives/thumbnails/artfair.jpg
     alt: "Art Fair 2019"
     title: "Art Fair Philippines 2019"
     excerpt: "The art fair on a parking garage in Makati is here for the 2019th edition!"
@@ -31,14 +31,14 @@ feature_row:
     btn_label: "View Gallery"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/img/photo-archives/thumbnails/main.jpg
+  - image_path: /assets/img/photo-archives/thumbnails/pgf2019.jpg
     alt: "PGF 2019"
     title: "Pinoy Gaming Festival 2019"
     excerpt: "The event also by Gariath, the organizer of ESGS."
     url: "/archives/pgf-2019"
     btn_label: "View Gallery"
     btn_class: "btn--primary"
-  - image_path: /assets/img/mockups/thumbnail.jpg
+  - image_path: /assets/img/photo-archives/thumbnails/stitalentsearch.jpg
     alt: "STI Talent Search"
     title: "STI Talent Search 2019"
     excerpt: "The last EK before pandemic :<"
