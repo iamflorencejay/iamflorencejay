@@ -4,7 +4,7 @@ title: Support Florence
 permalink: /support
 ---
 
-# Support Us
+## Support Us
 
 You could support us via these options:
 

@@ -4,7 +4,8 @@ title: Support Florence
 permalink: /support/crypto
 ---
 
-# Support Us by mining MINTME
+## Support Us by mining MINTME
+
 If you want to support us by mining on a browser, you can do that here.
 
 **WARNING: IF YOU CONTINUE TO DO THIS, YOU'RE AGREEING THAT THIS SCRIPT WILL MINE MINTME DIRECTLY ON YOUR BROWSER VIA COINIMP. IF YOU DON'T WANT TO MINE, LEAVE THE PAGE RIGHT NOW.**
