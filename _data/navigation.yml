@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Blog"
-    url: "/posts/"
+    url: /posts/
   - title: "About"
-    url: "/about/"
+    url: /about/
   - title: "Subscribe"
-    url: "https://www.buymeacoffee.com/iamflorencejay"
+    url: https://www.buymeacoffee.com/iamflorencejay
   - title: "Support"
-     url: "/support/"
+    url: /support/
