@@ -39,7 +39,7 @@ feature_row2:
     alt: "archives"
     title: "Photo Archives"
     excerpt: "All of my gallery archives are available here."
-    url: "/archives/"
+    url: "/photo-archives/"
     btn_label: "View"
     btn_class: "btn--primary"
   - image_path: /assets/img/mockups/thumbnail.jpg
