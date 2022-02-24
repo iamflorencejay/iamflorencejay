@@ -8,8 +8,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "My Channel"
+      url: "https://odysee.com/$/invite/iamflorencejay:f"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "I am Florence Jay Munar. Content Creator, Writer, Parodist, anything that I have a skill for can push it out of the box. :D"
 feature_row:
