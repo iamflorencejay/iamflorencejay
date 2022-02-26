@@ -12,6 +12,8 @@ header:
       url: "https://odysee.com/$/invite/iamflorencejay:f"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "I am Florence Jay Munar. Content Creator, Writer, Parodist, anything that I have a skill for can push it out of the box. :D"
+intro: 
+  - excerpt: 'NOTE: This website is on work in progress. Please check back soon for updates. Thank you for your patience.'
 feature_row:
   - image_path: /assets/img/mockups/thumbnail.jpg
     alt: "Mockup"
