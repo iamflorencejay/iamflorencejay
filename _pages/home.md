@@ -47,7 +47,7 @@ feature_row2:
     alt: "resume-website"
     title: "Resume"
     excerpt: "The website format of my resume!"
-    url: "https://resume.florencejaymunar.com"
+    url: "https://cv.florencejaymunar.com"
     btn_label: "View"
     btn_class: "btn--primary"
 ---
