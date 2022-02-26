@@ -43,7 +43,7 @@ feature_row2:
     url: "/photo-archives/"
     btn_label: "View"
     btn_class: "btn--primary"
-  - image_path: assets/img/resume/main.jpg
+  - image_path: assets/img/resume/thumnail.png
     alt: "resume-website"
     title: "Resume"
     excerpt: "The website format of my resume!"
