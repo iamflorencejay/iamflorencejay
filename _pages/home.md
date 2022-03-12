@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: "Random posts, Random time."
 permalink: /
 header:
   overlay_color: "#1e90ee"
@@ -20,7 +21,7 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--primary"
    - image_path: /assets/img/mockups/thumbnail.jpg
-    alt: "portfolio"
+    alt: "Portfolio"
     title: "Portfolio"
     excerpt: "My collection of my portfolios that I've done for the past few years."
     url: "/portfolio/"
