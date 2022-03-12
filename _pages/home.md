@@ -1,7 +1,8 @@
 ---
+title: "Random posts, random time."
 layout: splash
-title: "Random posts, Random time."
 permalink: /
+date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#1e90ee"
   overlay_filter: "0.5"
@@ -9,21 +10,14 @@ header:
   actions:
     - label: "My Channel"
       url: "https://odysee.com/$/invite/iamflorencejay:f"
-excerpt: "Hello there! I am a Content Creator, Writer, Parodist, anything that I have a skill for can push it out of the box. :D"
+excerpt: "I am Florence Jay Munar. Content Creator, Writer, Parodist, anything that I have a skill for can push it out of the box. :D"
 intro: 
   - excerpt: 'NOTE: This website is on work in progress. Please check back soon for updates. Thank you for your patience.'
 feature_row:
   - image_path: /assets/img/mockups/thumbnail.jpg
     alt: "Mockup"
-    title: "Mockups"
-    excerpt: "My mockups that I've done on my spare time."
-    url: "/mockups/"
-    btn_label: "View"
-    btn_class: "btn--primary"
-   - image_path: /assets/img/mockups/thumbnail.jpg
-    alt: "Portfolio"
-    title: "Portfolio"
-    excerpt: "My collection of my portfolios that I've done for the past few years."
+    title: "My Mockups and Portfolios"
+    excerpt: "Literally all of my mockups and portfolios that I've been doing for the past years."
     url: "/portfolio/"
     btn_label: "View"
     btn_class: "btn--primary"
@@ -34,7 +28,6 @@ feature_row:
     url: "/videos/"
     btn_label: "View"
     btn_class: "btn--primary"
-feature_row2:
   - image_path: /assets/img/articles/thumbnail.jpg
     alt: "articles"
     title: "Articles"
@@ -42,6 +35,7 @@ feature_row2:
     url: "/posts/"
     btn_label: "View"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/img/photo-archives/thumbnails/main.jpg
     alt: "archives"
     title: "Photo Archives"
