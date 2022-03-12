@@ -21,6 +21,13 @@ feature_row:
     url: "/portfolio/"
     btn_label: "View"
     btn_class: "btn--primary"
+  - image_path: /assets/img/mockups/thumbnail.jpg
+    alt: "Mockup"
+    title: "My Mockups and Portfolios"
+    excerpt: "Literally all of my mockups and portfolios that I've been doing for the past years."
+    url: "/portfolio/"
+    btn_label: "View"
+    btn_class: "btn--primary"
   - image_path: /assets/img/videos/thumbnail.jpg
     alt: "videos"
     title: "YouTube and Odysee Videos"
@@ -28,6 +35,7 @@ feature_row:
     url: "/videos/"
     btn_label: "View"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/img/articles/thumbnail.jpg
     alt: "articles"
     title: "Articles"
@@ -35,7 +43,6 @@ feature_row:
     url: "/posts/"
     btn_label: "View"
     btn_class: "btn--primary"
-feature_row2:
   - image_path: /assets/img/photo-archives/thumbnails/main.jpg
     alt: "archives"
     title: "Photo Archives"
