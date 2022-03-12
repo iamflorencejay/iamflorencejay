@@ -1,8 +1,6 @@
 ---
-title: "Random posts, random time."
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#1e90ee"
   overlay_filter: "0.5"
@@ -10,7 +8,7 @@ header:
   actions:
     - label: "My Channel"
       url: "https://odysee.com/$/invite/iamflorencejay:f"
-excerpt: "Hello there! I am Florence Jay Munar. Content Creator, Writer, Parodist, anything that I have a skill for can push it out of the box. :D"
+excerpt: "Hello there! I am a Content Creator, Writer, Parodist, anything that I have a skill for can push it out of the box. :D"
 intro: 
   - excerpt: 'NOTE: This website is on work in progress. Please check back soon for updates. Thank you for your patience.'
 feature_row:
