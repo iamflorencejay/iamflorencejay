@@ -16,14 +16,14 @@ intro:
 feature_row:
   - image_path: /assets/img/mockups/thumbnail.jpg
     alt: "Mockup"
-    title: "My Mockups and Portfolios"
+    title: "Mockups"
     excerpt: "Literally all of my mockups and portfolios that I've been doing for the past years."
-    url: "/portfolio/"
+    url: "/mockups/"
     btn_label: "View"
     btn_class: "btn--primary"
   - image_path: /assets/img/mockups/thumbnail.jpg
-    alt: "Mockup"
-    title: "My Mockups and Portfolios"
+    alt: "Portfolio"
+    title: "Portfolio"
     excerpt: "Literally all of my mockups and portfolios that I've been doing for the past years."
     url: "/portfolio/"
     btn_label: "View"
