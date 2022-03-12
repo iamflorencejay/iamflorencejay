@@ -2,7 +2,7 @@
 title: "Random posts, random time."
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
+date: 2022-03-12T11:48:00+08:00
 header:
   overlay_color: "#1e90ee"
   overlay_filter: "0.5"
@@ -17,14 +17,14 @@ feature_row:
   - image_path: /assets/img/mockups/thumbnail.jpg
     alt: "Mockup"
     title: "Mockups"
-    excerpt: "Literally all of my mockups and portfolios that I've been doing for the past years."
+    excerpt: "My mockups that I've done on my free time."
     url: "/mockups/"
     btn_label: "View"
     btn_class: "btn--primary"
   - image_path: /assets/img/mockups/thumbnail.jpg
     alt: "Portfolio"
     title: "Portfolio"
-    excerpt: "Literally all of my mockups and portfolios that I've been doing for the past years."
+    excerpt: "Literally all of my portfolio that I've been doing for the past years."
     url: "/portfolio/"
     btn_label: "View"
     btn_class: "btn--primary"
