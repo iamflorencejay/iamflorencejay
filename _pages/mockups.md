@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: Mockups
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /mockups/
+collection: mockups
 entries_layout: grid
 classes: wide
 author_profile: true
