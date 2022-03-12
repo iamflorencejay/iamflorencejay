@@ -1,5 +1,5 @@
 ---
-title: "Hello There!"
+title: "Random posts, random time."
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -10,14 +10,21 @@ header:
   actions:
     - label: "My Channel"
       url: "https://odysee.com/$/invite/iamflorencejay:f"
-excerpt: "I am Florence Jay Munar. Content Creator, Writer, Parodist, anything that I have a skill for can push it out of the box. :D"
+excerpt: "Hello there! I am Florence Jay Munar. Content Creator, Writer, Parodist, anything that I have a skill for can push it out of the box. :D"
 intro: 
   - excerpt: 'NOTE: This website is on work in progress. Please check back soon for updates. Thank you for your patience.'
 feature_row:
   - image_path: /assets/img/mockups/thumbnail.jpg
     alt: "Mockup"
-    title: "My Mockups and Portfolios"
-    excerpt: "Literally all of my mockups and portfolios that I've been doing for the past years."
+    title: "Mockups"
+    excerpt: "My mockups that I've done on my spare time."
+    url: "/mockups/"
+    btn_label: "View"
+    btn_class: "btn--primary"
+   - image_path: /assets/img/mockups/thumbnail.jpg
+    alt: "portfolio"
+    title: "Portfolio"
+    excerpt: "My collection of my portfolios that I've done for the past few years."
     url: "/portfolio/"
     btn_label: "View"
     btn_class: "btn--primary"
