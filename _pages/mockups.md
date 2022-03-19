@@ -1,10 +1,10 @@
 ---
-title: Mockups
+title: mockups
 layout: collection
 permalink: /mockups/
 collection: mockups
 entries_layout: grid
 classes: wide
-author_profile: true
 ---
 
+Sample document listing for the collection `_mockups'.
