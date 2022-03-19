@@ -16,15 +16,8 @@ intro:
 feature_row:
   - image_path: /assets/img/mockups/jammer/thumbnail.jpg
     alt: "Mockup"
-    title: "Mockups"
+    title: "Mockups and Portfolio"
     excerpt: "My mockups that I've done on my free time."
-    url: "/mockups/"
-    btn_label: "View"
-    btn_class: "btn--primary"
-  - image_path: /assets/img/mockups/thumbnail.jpg
-    alt: "Portfolio"
-    title: "Portfolio"
-    excerpt: "Literally all of my portfolio that I've been doing for the past years."
     url: "/portfolio/"
     btn_label: "View"
     btn_class: "btn--primary"
@@ -35,7 +28,6 @@ feature_row:
     url: "/videos/"
     btn_label: "View"
     btn_class: "btn--primary"
-feature_row2:
   - image_path: /assets/img/articles/thumbnail.jpg
     alt: "articles"
     title: "Articles"
@@ -43,6 +35,7 @@ feature_row2:
     url: "/posts/"
     btn_label: "View"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/img/photo-archives/thumbnails/main.jpg
     alt: "archives"
     title: "Photo Archives"
