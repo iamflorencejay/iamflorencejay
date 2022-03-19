@@ -14,7 +14,7 @@ excerpt: "Hello Fellow Adventurers! I am Florence Jay Munar. I am a Content Crea
 intro: 
   - excerpt: 'NOTE: This website is on work in progress. Please check back soon for updates. Thank you for your patience.'
 feature_row:
-  - image_path: /assets/img/mockups/thumbnail.jpg
+  - image_path: /assets/img/mockups/jammer/thumbnail.jpg
     alt: "Mockup"
     title: "Mockups"
     excerpt: "My mockups that I've done on my free time."
