@@ -303,10 +303,18 @@ defaults:
       layout: single
       author_profile: false
       share: true
-    # _mockups
+  # _mockups
   - scope:
       path: ""
       type: mockups
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _videos
+  - scope:
+      path: ""
+      type: videos
     values:
       layout: single
       author_profile: false
@@ -318,5 +326,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
+    output: true
+    permalink: /:collection/:path/
+  videos:
     output: true
     permalink: /:collection/:path/
