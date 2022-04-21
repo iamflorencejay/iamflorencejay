@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
     - label: "My Channel"
-      url: "https://odysee.com/$/invite/iamflorencejay:f"
+      url: "https://odysee.com/$/invite/@iamflorencejay:f"
 excerpt: "Hello Fellow Adventurers! I am Florence Jay Munar. I am a Content Creator, Writer, Parodist, anything that I have a skill for can push it out of the box. :D"
 intro: 
   - excerpt: 'NOTE: This website is on work in progress. Please check back soon for updates. Thank you for your patience.'
