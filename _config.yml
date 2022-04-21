@@ -288,3 +288,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Collections
+collections:
+  mockups:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
