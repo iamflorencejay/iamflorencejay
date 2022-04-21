@@ -6,7 +6,7 @@ date: 2022-03-12T11:48:00+08:00
 header:
   overlay_color: "#1e90ee"
   overlay_filter: "0.5"
-  # overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
     - label: "My Channel"
       url: "https://odysee.com/$/invite/iamflorencejay:f"
@@ -14,14 +14,14 @@ excerpt: "Hello Fellow Adventurers! I am Florence Jay Munar. I am a Content Crea
 intro: 
   - excerpt: 'NOTE: This website is on work in progress. Please check back soon for updates. Thank you for your patience.'
 feature_row:
-  - image_path: {% include gallery caption="My works here from the design perspective" %}/assets/img/mockups/jammer/thumbnail.jpg
+  - image_path: /assets/img/mockups/jammer/thumbnail.jpg
     alt: "Mockup"
     title: "Mockups"
     excerpt: "My mockups that I've done on my free time."
     url: "/mockups/"
     btn_label: "View"
     btn_class: "btn--primary"
-  - image_path: /assets/img/mockups/thumbnail.jpg
+  - image_path: /assets/img/mockups/jammer/thumbnail.jpg
     alt: "Portfolio"
     title: "Portfolio"
     excerpt: "Literally all of my portfolio that I've been doing for the past years."
