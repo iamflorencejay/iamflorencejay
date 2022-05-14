@@ -39,6 +39,8 @@ gallery:
     alt: "placeholder image 9"
 ---
 
+Jammer is a mockup of Cloudflare, that is a frontend developer tool for everyone. It is a tool that helps you to find the best way to solve your problems.
+
 Here is the example gallery of my works here:
 
 {% include gallery caption="My works here from the design perspective" %}
