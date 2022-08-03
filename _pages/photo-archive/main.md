@@ -42,7 +42,7 @@ feature_row2:
     alt: "STI Talent Search"
     title: "STI Talent Search 2019"
     excerpt: "The last EK before pandemic :<"
-    url: "/photo-archives/sti-talent-search-2019"
+    url: "/photo-archives/talent-search-2019"
     btn_label: "View Gallery"
     btn_class: "btn--primary"
 ---
