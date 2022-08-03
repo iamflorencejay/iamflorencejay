@@ -45,6 +45,13 @@ feature_row2:
     url: "/photo-archives/talent-search"
     btn_label: "View Gallery"
     btn_class: "btn--primary"
+  - image_path: /assets/img/photo-archives/thumbnails/conquest.jpg
+    alt: "Conquest"
+    title: "CONQuest Festival 2022"
+    excerpt: "The best of the best when it comes to gaming, NFT, cosplays, etc."
+    url: "/photo-archives/conquest-2022"
+    btn_label: "View Gallery"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
