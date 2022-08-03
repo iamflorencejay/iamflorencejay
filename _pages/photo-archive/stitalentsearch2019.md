@@ -1,6 +1,6 @@
 ---
 title: "STI Talent Search 2019"
-permalink: /photo-archives/talent-search-2019/
+permalink: /photo-archives/talent-search/
 gallery:
     - url: /assets/img/photo-archives/stitalentsearch2019/1.jpg
         image_path: /assets/img/photo-archives/stitalentsearch2019/1.jpg

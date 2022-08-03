@@ -1,6 +1,6 @@
 ---
 title: "Art Fair Philippines 2019"
-permalink: /photo-archives/art-fair-2019/
+permalink: /photo-archives/artfair-2019/
 gallery:
     - url: /assets/img/photo-archives/artfairph2019/1.jpg
         image_path: /assets/img/photo-archives/artfairph2019/1.jpg

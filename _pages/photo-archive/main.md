@@ -27,7 +27,7 @@ feature_row:
     alt: "Art Fair 2019"
     title: "Art Fair Philippines 2019"
     excerpt: "The art fair on a parking garage in Makati is here for the 2019th edition!"
-    url: "/photo-archives/art-fair-2019"
+    url: "/photo-archives/artfair-2019"
     btn_label: "View Gallery"
     btn_class: "btn--primary"
 feature_row2:
@@ -42,7 +42,7 @@ feature_row2:
     alt: "STI Talent Search"
     title: "STI Talent Search 2019"
     excerpt: "The last EK before pandemic :<"
-    url: "/photo-archives/talent-search-2019"
+    url: "/photo-archives/talent-search"
     btn_label: "View Gallery"
     btn_class: "btn--primary"
 ---
