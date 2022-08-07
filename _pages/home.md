@@ -21,7 +21,7 @@ feature_row:
     url: "/mockups/"
     btn_label: "View"
     btn_class: "btn--primary"
-  - image_path: /assets/img/mockups/jammer/thumbnail.jpg
+  - image_path: /assets/img/portfolio/thumbnail.jpg
     alt: "Portfolio"
     title: "Portfolio"
     excerpt: "Literally all of my portfolio that I've been doing for the past years."
