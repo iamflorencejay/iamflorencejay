@@ -2,7 +2,5 @@
 main:
   - title: "About"
     url: /about/
-  - title: "SUScribe"
-    url: https://www.buymeacoffee.com/iamflorencejay
-  - title: "Support Us"
+  - title: "Support Me"
     url: /support-us/
