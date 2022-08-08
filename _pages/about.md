@@ -1,11 +1,16 @@
 ---
-layout: single
+layout: splash
 permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+title: "About Me"
 last_modified_at: 2021-05-11T10:23:16-04:00
-author_profile: true
-toc: true
+header:
+  overlay_color: "#1e90ee"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  actions:
+    - label: "Get in Touch"
+      url: "mailto:emailme@florencejaymunar.com"
+excerpt: "Hello Fellow Adventurers! I am Florence Jay Munar. I am a Content Creator, Writer, Parodist, anything that I have a skill for can push it out of the box. :D"
 ---
 
-Hello Fellow Adventurers! I am Florence Jay Munar, a 
+test test test
