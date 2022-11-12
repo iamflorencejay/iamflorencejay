@@ -8,7 +8,7 @@ sidebar:
   - title: "Topic"
     image: https://raw.githubusercontent.com/iamflorencejay/iamflorencejay/florence-gh-pages/assets/img/mockups/glaze-dessert/icon.svg
     image_alt: "logo"
-    text: "Cybersecurity"
+    text: "Mockups, Donut Shop"
 gallery:
   - url: https://raw.githubusercontent.com/iamflorencejay/iamflorencejay/florence-gh-pages/assets/img/mockups/glaze-dessert/1.png
     image_path: https://raw.githubusercontent.com/iamflorencejay/iamflorencejay/florence-gh-pages/assets/img/mockups/glaze-dessert/1.png
