@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-My mockups that I’ve done on my free time.
+My mockups that I’ve done, or I've contributed on school, and future projects.

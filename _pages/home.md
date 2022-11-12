@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/img/mockups/jammer/thumbnail.jpg
     alt: "Mockup"
     title: "Mockups"
-    excerpt: "My mockups that I've done on my free time."
+    excerpt: "My mockups that I’ve done, or I've contributed on school, and future projects."
     url: "/mockups/"
     btn_label: "View"
     btn_class: "btn--primary"
