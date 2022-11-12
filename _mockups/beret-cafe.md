@@ -42,7 +42,7 @@ gallery:
     alt: "placeholder image 9"
 ---
 
-I was tasked to deliver this work to my professor to do the magazine from the ground up, and I purposively finished my task, with my old i3 laptop.
+I was tasked to deliver this work to my professor to do the magazine from the ground up, and I purposively finished my task, with my old Intel Core i3 laptop running GIMP.
 
 Beret Cafe is an artistic coffee shop that serves coffee and pastries. It is located in the heart of the city, and it is a place where people can relax and enjoy their coffee. The coffee shop is also a place where people can meet and talk about their lives.
 
