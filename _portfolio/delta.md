@@ -21,6 +21,8 @@ gallery:
     alt: "vidio"
 ---
 
-Doing some logo request work from the Delta Icons project.
+I've done some inkscape work for Delta Icons, the open-source icon pack.
+
+Click the images to see the pull requests.
 
 {% include gallery %}
