@@ -2,8 +2,8 @@
 title: "OneSeven Graphix"
 excerpt: "Me and my coleague Nikko make a website for the OneSevenGraphix based on Jekyll and Github Pages."
 header:
-  image: https://raw.githubusercontent.com/iamflorencejay/iamflorencejay/florence-gh-pages/assets/img/portfolio/oneseven/thumbnail.jpg
-  teaser: https://raw.githubusercontent.com/iamflorencejay/iamflorencejay/florence-gh-pages/assets/img/portfolio/oneseven/thumbnail.jpg
+  image: https://raw.githubusercontent.com/iamflorencejay/iamflorencejay/florence-gh-pages/assets/img/portfolio/oneseven/thumbnail.png
+  teaser: https://raw.githubusercontent.com/iamflorencejay/iamflorencejay/florence-gh-pages/assets/img/portfolio/oneseven/thumbnail.png
 sidebar:
   - title: "Topic"
     image: https://onesevengraphix.github.io/website/assets/img/logo/logomark.svg
