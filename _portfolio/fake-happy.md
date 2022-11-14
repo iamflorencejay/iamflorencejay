@@ -14,8 +14,11 @@ This is a short film tackles about the issue of mental health, and how it affect
 ### Cast
 
 Me and Gerard Salaysay - Actors
+
 Miguel Elester - Story
+
 Jaaziel Ampit - Editor
+
 Ray Dela Vega - Director
 
 ### Trailer
