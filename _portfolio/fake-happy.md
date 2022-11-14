@@ -1,6 +1,6 @@
 ---
 title: "Fake Happy (Short Film)"
-excerpt: "This short film is from "
+excerpt: "This is a short film tackles about the issue of mental health, and how it affects people around us."
 header:
   video:
     id: 3Sjqj_ysAuI
