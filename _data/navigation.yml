@@ -1,6 +1,8 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: https://iamflorencejay.substack.com/about
+  - title: "Blog"
+    url: https://iamflorencejay.substack.com
   - title: "Support Me"
     url: /support-us/
