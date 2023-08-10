@@ -1,3 +1,4 @@
+---
 title: "CONQuest Festival 2023"
 permalink: /photo-archives/conquest-2023/
 gallery:
