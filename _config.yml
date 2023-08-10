@@ -231,6 +231,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-redirect-from
+  - jekyll-webp
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -344,44 +345,41 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# _config.yml
-assets:
-  source_maps: true
-  destination: "/assets"
-  compression: false
-  gzip: false
-  defaults:
-    integrity:
-      {css,img,js}: false
-  caching:
-    enabled: true
-    path: ".jekyll-cache/assets"
-    type: file
-  # --
-  # Assets you wish to always have compiled.
-  #   This can also be combined with raw_precompile which
-  #   copies assets without running through the pipeline
-  #   making them ultra fast.
-  # --
-  precompile: []
-  raw_precompile: [
-    #
-  ]
-  # --
-  # baseurl: whether or not to append site.baseurl
-  # destination: the folder you store them in on the CDN.
-  # url: the CDN url (fqdn, or w/ identifier).
-  # --
-  cdn:
-    baseurl: false
-    destination: false
-    url: null
-  # --
-  # See lib/jekyll/assets/config.rb
-  #   for a list of defaults
-  # --
-  sources:
-    - _assets/custom
-  plugins:
-    css: { autoprefixer: {}}
-    img: { optim: {}}
+############################################################
+# Site configuration for the WebP Generator Plugin
+# The values here represent the defaults if nothing is set
+webp:
+  enabled: true
+  
+  # The quality of the webp conversion 0 to 100 (where 100 is least lossy)
+  quality: 75
+
+  # List of directories containing images to optimize, nested directories will only be checked if `nested` is true
+  # By default the generator will search for a folder called `/img` under the site root and process all jpg, png and tiff image files found there.
+  img_dir: ["/img"]
+
+  # Whether to search in nested directories or not
+  nested: false
+
+  # add ".gif" to the format list to generate webp for animated gifs as well
+  formats: [".jpeg", ".jpg", ".png", ".tiff"]
+
+  # File extensions for animated gif files 
+  gifs: [".gif"]
+
+  # Set to true to always regenerate existing webp files
+  regenerate: false
+
+  # Local path to the WebP utilities to use (relative or absolute)
+  # Omit or leave as nil to use the utilities shipped with the gem, override only to use your local install
+  # Eg : "/usr/local/bin/cwebp"
+  webp_path: nil
+
+  # List of files or directories to exclude
+  # e.g. custom or hand generated webp conversion files
+  exclude: []
+
+  # append '.webp' to filename after original extension rather than replacing it.
+  # Default transforms `image.png` to `image.webp`, while changing to true transforms `image.png` to `image.png.webp`
+  append_ext: false
+############################################################
