@@ -6,7 +6,7 @@ date: 2022-03-12T11:48:00+08:00
 header:
   overlay_color: "#1e90ee"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: https://thumbnails.lbry.com/1lA9uMh0J-Q
   actions:
     - label: "My Channel"
       url: "https://odysee.com/$/invite/@iamflorencejay:f"

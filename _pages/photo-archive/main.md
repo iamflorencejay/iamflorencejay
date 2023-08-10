@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#1e90ee"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/img/photo-archives/thumbnails/main.jpg
 excerpt: "My memories of the past. Before until now. :D"
 feature_row:
   - image_path: /assets/img/photo-archives/thumbnails/esgs2018.jpg
