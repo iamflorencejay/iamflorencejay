@@ -53,7 +53,7 @@ feature_row2:
     btn_label: "View Gallery"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/img/photo-archives/thumbnails/conquest2023.png
+  - image_path: /assets/img/photo-archives/thumbnails/conquest2023.jpg
     alt: "Conquest"
     title: "CONQuest Festival 2023"
     excerpt: "The CQ Festival is back (and possibly the last)."
