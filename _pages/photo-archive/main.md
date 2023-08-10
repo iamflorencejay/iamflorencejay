@@ -52,8 +52,18 @@ feature_row2:
     url: "/photo-archives/conquest-2022"
     btn_label: "View Gallery"
     btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/img/photo-archives/thumbnails/conquest23.png
+    alt: "Conquest"
+    title: "CONQuest Festival 2023"
+    excerpt: "The CQ Festival is back (and possibly the last)."
+    url: "/photo-archives/conquest-2023"
+    btn_label: "View Gallery"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" %}
+
+{% include feature_row id="feature_row3" %}
