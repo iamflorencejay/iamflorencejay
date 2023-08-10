@@ -6,12 +6,12 @@ header:
   teaser: https://raw.githubusercontent.com/iamflorencejay/iamflorencejay/florence-gh-pages/assets/img/portfolio/elsa/elsa.jpg
 sidebar:
   - title: "Topic"
-    image: https://raw.githubusercontent.com/iamflorencejay/iamflorencejay/florence-gh-pages/assets/img/portfolio/anacob/elsa.png
+    image: https://raw.githubusercontent.com/iamflorencejay/iamflorencejay/florence-gh-pages/assets/img/portfolio/elsa/elsa.png
     image_alt: "logo"
     text: "Android app"
 gallery:
-  - url: https://raw.githubusercontent.com/iamflorencejay/iamflorencejay/florence-gh-pages/assets/img/portfolio/anacob/1.jpg
-    image_path: https://raw.githubusercontent.com/iamflorencejay/iamflorencejay/florence-gh-pages/assets/img/portfolio/anacob/1.jpg
+  - url: https://raw.githubusercontent.com/iamflorencejay/iamflorencejay/florence-gh-pages/assets/img/portfolio/elsa/1.jpg
+    image_path: https://raw.githubusercontent.com/iamflorencejay/iamflorencejay/florence-gh-pages/assets/img/portfolio/elsa/1.jpg
     alt: "Placeholder image 1"
     
 ---
