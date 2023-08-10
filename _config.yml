@@ -20,7 +20,7 @@ title                    : "Florence Jay Munar"
 title_separator          : "-"
 subtitle                 : "Random posts, random time." # site tagline that appears below site title in masthead
 name                     : "Florence Jay Munar"
-description              : "Doing content creation for almost **6 years.**"
+description              : "Doing content creation for a long time. Still @ work."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Florence Jay Munar"
   avatar           : android-chrome-512x512.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Doing content creation for almost **6 years.**"
+  bio              : "Doing content creation for a long time. Still @ work."
   location         : "Philippines"
   email            : "florencejaymunar@proton.me"
   links:
@@ -115,7 +115,7 @@ author:
       url: "mailto:florencejaymunar@proton.me"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://florencejaymunar.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/iamflorencejay"
